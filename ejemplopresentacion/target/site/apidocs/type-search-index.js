@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.mycompany.dnis","l":"Agenda"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.dnis","l":"Dnis"},{"p":"com.mycompany.dnis","l":"Persona"}];updateSearchResults();

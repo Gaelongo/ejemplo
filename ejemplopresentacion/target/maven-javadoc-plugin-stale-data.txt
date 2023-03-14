@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'D:/UABC/Cuarto semestre/LPOO/dnis/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/UABC/Cuarto semestre/LPOO/dnis/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'dnis 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'dnis 1.0-SNAPSHOT API'
+com.mycompany.dnis
+D:\UABC\Cuarto semestre\LPOO\dnis\src\main\java = 1678209916976
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\allclasses-index.html = 1678734033645
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\allpackages-index.html = 1678734033650
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\copy.svg = 1678734033713
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\element-list = 1678734033551
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\help-doc.html = 1678734033700
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\index-all.html = 1678734033683
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\index.html = 1678734033690
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\jquery-ui.overrides.css = 1678734033738
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\member-search-index.js = 1678734033664
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\module-search-index.js = 1678734033651
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\overview-tree.html = 1678734033625
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\package-search-index.js = 1678734033653
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\script.js = 1678734033710
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\search-page.js = 1678734033721
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\search.html = 1678734033687
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\search.js = 1678734033718
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\stylesheet.css = 1678734033706
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\tag-search-index.js = 1678734033665
+D:\UABC\Cuarto semestre\LPOO\dnis\target\site\apidocs\type-search-index.js = 1678734033654
